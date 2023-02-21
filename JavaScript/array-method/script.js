@@ -24,6 +24,7 @@ console.log(nums.lastIndexOf(4345)); //-1
 
 //push
 nums.push(143);
+
 console.log(nums); //5, 3, 67, 3, 76, , 3, 67, 3, 5, 10, 143
 
 // pop()
