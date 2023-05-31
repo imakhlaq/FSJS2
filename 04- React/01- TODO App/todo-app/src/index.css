@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background: linear-gradient(
+    to right bottom,
+    rgb(55, 65, 81),
+    rgb(17, 24, 39),
+    rgb(0, 0, 0)
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
